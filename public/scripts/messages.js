@@ -5,17 +5,17 @@ let date2 = moment().startOf('hour').fromNow();
 // default messages shown in index
 const messages = [
   {
-    title: 'On the topic of pizzas',
+    title: 'Book Title',
     description:
-      'I personally think Pizza Hut beats Blaze Pizza, but each to their own... I also dig Hungry Howie’s and their wings. Dominoes is alright. Papa John’s if I’m really desperate.',
-    username: 'Armando',
+      'hsfbgbgjsgsjgsl',
+    username: 'vjfal',
     date: date2,
   },
   {
-    title: 'Blaze Pizza',
+    title: 'Book Title',
     description:
-      'I just tried Blaze Pizza for the first time and I love it! What is everybody’s go-to order at Blaze?',
-    username: 'Laurie',
+      'fadjfbhlgj',
+    username: 'gfanjbgjl',
     date: date,
   },
 ];

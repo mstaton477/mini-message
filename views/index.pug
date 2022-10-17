@@ -3,7 +3,7 @@ extends layout
 block content
   header 
     h1= 'Message Board'
-    p= 'speak your mind freely'
+    p= 'Communicate with your friends!'
   main
     .button-container
       a(href=`http://localhost:${process.env.PORT || 3000}/new`): button.compose= "got something to say?"
